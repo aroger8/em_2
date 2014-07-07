@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: 2014-07-07 10:09:28
+  end: 2014-07-07 10:09:28
+  name: MyString
+  trello_id: MyString
+
+two:
+  start: 2014-07-07 10:09:28
+  end: 2014-07-07 10:09:28
+  name: MyString
+  trello_id: MyString
