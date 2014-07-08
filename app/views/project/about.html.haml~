@@ -1,4 +1,14 @@
-#about
+%h1 About this Application:
 
-  /*%p LAWLALWLAWLAWDASLDASDLAWLDAWLD*/
+%p This application displays the current in-progress Trello cards for the engineering department.
+%p When a card is complete, it will turn green, indicating that it is done.
+%p qwerq
+%p qwerq
 
+
+%p werwer
+%p asdfs
+%p asdfasdfawer
+%p asdfasdf
+%p asdfasd
+%p asdfwerwerweqre
