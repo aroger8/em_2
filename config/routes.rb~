@@ -1,5 +1,5 @@
 Em2::Application.routes.draw do
-
+  resources :importers
   #root :to => "project#show"
   #get "project/about"
   get '/about/', to: 'project#about'
